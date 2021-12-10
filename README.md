@@ -1,3 +1,3 @@
 # nationaljava10
-This is my first ever code in Java
+This is my first ever code in Java\n
 Doing my best
