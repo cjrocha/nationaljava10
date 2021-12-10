@@ -1,9 +1,9 @@
 /** This is my first ever code on Java
  * Using SDK 17
- * Module to calculate sum of first 100 no. grater than 0
+ * Module to calculate sum of first 100 no. greater than 0
  */
 
-package com.onpontdev;
+package com.unpontdev;
 
 public class Maths {
     public static void main(String[] args) {
